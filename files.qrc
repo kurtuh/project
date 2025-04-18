@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>M_height.jpg</file>
+    <file>photo_5395603866361390873_m (1).jpg</file>
+    <file>бургер.jpg</file>
+    <file>photo_5458702399138032533_m.jpg</file>
+    <file>тартар.jpg</file>
+  </qresource>
+  <qresource prefix="icons3">
+    <file>Снимок экрана 2025-04-10 113238.png</file>
+  </qresource>
+</RCC>

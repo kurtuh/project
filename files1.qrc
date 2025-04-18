@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons1">
+    <file>бургер.jpg</file>
+    <file>суши.jpg</file>
+    <file>кокаля.jpg</file>
+    <file>милкшейк.jpg</file>
+    <file>карбонара.jpg</file>
+  </qresource>
+</RCC>
